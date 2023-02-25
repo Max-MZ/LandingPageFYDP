@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/dashboard",
+      "destination": "https://landing-page-fydp.vercel.app/dasboard"
+    },
+    {
+      "source": "/login",
+      "destination": "https://landing-page-fydp.vercel.app/login"
+    }
+  ]
+}
