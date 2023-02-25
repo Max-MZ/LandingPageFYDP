@@ -24,7 +24,7 @@ function App() {
 
           {/* <Route path="blogs" element={<Hero />} />
           <Route path='/' element={<Analytics/>}/> */}
-          <Navbar showOptional />
+          <Navbar />
           <Hero />
           <Analytics />
           <Newsletter />
